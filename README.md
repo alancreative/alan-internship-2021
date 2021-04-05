@@ -1,4 +1,4 @@
-# Alan Internship TASK
+# Alan-internship-2021
 
 Repositori ini digunakan sebagai acuan untuk pembelajaran.
 
